@@ -177,17 +177,10 @@ Key Python packages used (see `requirements.txt` for full list):
 
 ## 📸 Pipeline Screenshot
 
-![Airflow DAG Pipeline](Airflow_pipeline.png)
+<img width="892" height="519" alt="Untitled-2026-04-16-2229" src="https://github.com/user-attachments/assets/8cdb1f33-7102-4006-ac30-1419b71c11bb" />
+
 
 ---
 
-## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
 
----
-
-## 🙋‍♂️ Author
-
-**Somesh Salunkhe**  
-[GitHub](https://github.com/Somesh-Salunkhe) | [LinkedIn](https://www.linkedin.com/in/somesh-salunkhe)
