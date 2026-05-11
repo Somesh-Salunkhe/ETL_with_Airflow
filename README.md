@@ -35,8 +35,7 @@ NASA APOD API
      ├── Task 3: transform_data   → Parses title, explanation, url, date, media_type
      └── Task 4: load_data        → Inserts record into PostgreSQL via PostgresHook
 ```
-
-![Airflow Pipeline](Airflow_pipeline.png)
+<img width="894" height="2157" alt="Airflow_pipeline" src="https://github.com/user-attachments/assets/3a78d1ce-6add-4ecf-b2b0-c897be83d370" />
 
 ---
 
