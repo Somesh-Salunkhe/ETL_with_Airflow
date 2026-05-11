@@ -175,7 +175,7 @@ Key Python packages used (see `requirements.txt` for full list):
 
 ---
 
-## 📸 Pipeline Screenshot
+## 📸 Pipeline
 
 <img width="892" height="519" alt="Untitled-2026-04-16-2229" src="https://github.com/user-attachments/assets/8cdb1f33-7102-4006-ac30-1419b71c11bb" />
 
